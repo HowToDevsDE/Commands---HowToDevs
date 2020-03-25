@@ -1,0 +1,18 @@
+---
+#WelcomeMessage
+welcomemessage: "Willkommen auf unserem Server!"
+#Day and Night
+daymessage: "Es wurde auf Tag gesetzt!"
+nightmessage: "Es wurde auf Nacht gesetzt!"
+
+#Feed and Heal
+feedmessage: "Du wurdest von mir Gefüttert! :D"
+healmessage: "Du wurdest von mir Geheilt!"
+
+#Fly Messages
+flyonbutton: "§aAktivieren"
+flyoffbutton: "§cDeaktivieren"
+
+flyonmessage: "Dein FlyModus wurde Aktiviert"
+flyoffmessage: "Dein FlyModus wurde Deaktiviert"
+...
